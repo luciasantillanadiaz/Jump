@@ -1,2 +1,2 @@
 # Jump
-Jump higher and higher! (Still in development)
+Jump higher and higher! (Still under development)
